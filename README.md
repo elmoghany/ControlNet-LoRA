@@ -7,7 +7,20 @@
 ## ControlNet Architecture
 ![picture](controlNetData/assets/controlnet-operation-principle.jpg)
 
+# Using Circle Fill50K Dataset [1]
+## SDXL Results
+### Before Finetuning
+![picture](controlNetData/assets/controlnet-operation-principle.jpg)
 
+## ControlNet Results
+### After Finetuning
+
+# Using Pose Dataset [2]
+## SDXL Results
+### Before Finetuning
+
+## ControlNet Results
+### After Finetuning
 
 
 
