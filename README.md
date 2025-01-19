@@ -13,8 +13,9 @@
 ![picture](controlNetData/)
 
 ## ControlNet Results
-### After Finetuning
+### After Finetuning via condition 1
 ![picture](controlNetData/controlNet-Circle-Output/After-fill50k-ControlNet-condition1.png)
+### After Finetuning via condition 2
 ![picture](controlNetData/controlNet-Circle-Output/After-fill50k-ControlNet-condition2.png)
 
 # Using Pose Dataset [2]
@@ -23,8 +24,9 @@
 ![picture](controlNetData/)
 
 ## ControlNet Results
-### After Finetuning
+### After Finetuning via condition 1
 ![picture](controlNetData/controlNet-Circle-Output/After-pose_merlinyx-ControlNet-condition1.png)
+### After Finetuning via condition 2
 ![picture](controlNetData/controlNet-Circle-Output/After-pose_merlinyx-ControlNet-condition1.png)
 
 
