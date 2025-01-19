@@ -10,17 +10,22 @@
 # Using Circle Fill50K Dataset [1]
 ## SDXL Results
 ### Before Finetuning
-![picture](controlNetData/assets/controlnet-operation-principle.jpg)
+![picture](controlNetData/)
 
 ## ControlNet Results
 ### After Finetuning
+![picture](controlNetData/controlNet-Circle-Output/After-fill50k-ControlNet-condition1.png)
+![picture](controlNetData/controlNet-Circle-Output/After-fill50k-ControlNet-condition2.png)
 
 # Using Pose Dataset [2]
 ## SDXL Results
 ### Before Finetuning
+![picture](controlNetData/)
 
 ## ControlNet Results
 ### After Finetuning
+![picture](controlNetData/controlNet-Circle-Output/After-pose_merlinyx-ControlNet-condition1.png)
+![picture](controlNetData/controlNet-Circle-Output/After-pose_merlinyx-ControlNet-condition1.png)
 
 
 
