@@ -10,7 +10,7 @@
 # Using Circle Fill50K Dataset [1]
 ## SDXL Results
 ### Before Finetuning
-![picture](controlNetData/SDXL\ Before\ Training.png)
+![picture](controlNetData/SDXL Before Training.png)
 
 ## ControlNet Results
 ### After Finetuning via condition 1
