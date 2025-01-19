@@ -5,7 +5,7 @@
 2. [merlinyx/pose-controlnet](https://huggingface.co/datasets/merlinyx/pose-controlnet)
 
 ## ControlNet Architecture
-![picture](controlNet-LoRA/controlNetData/assets/controlnet-operation-principle.jpg)
+![picture](controlNetData/assets/controlnet-operation-principle.jpg)
 
 
 
