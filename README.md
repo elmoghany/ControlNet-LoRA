@@ -25,9 +25,9 @@
 
 ## ControlNet Results
 ### After Finetuning via condition 1
-![picture](controlNetData/controlNet-Pose-Output/After-pose_merlinyx-ControlNet-condition1.png)
+![picture](controlNetData/controlNet-Pose2-Output/After-pose_merlinyx-ControlNet-condition1.png)
 ### After Finetuning via condition 2
-![picture](controlNetData/controlNet-Pose-Output/After-pose_merlinyx-ControlNet-condition1.png)
+![picture](controlNetData/controlNet-Pose2-Output/After-pose_merlinyx-ControlNet-condition1.png)
 
 
 
