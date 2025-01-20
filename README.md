@@ -1,13 +1,10 @@
 # Attaching controlNet into Stable Diffusion to finetune the model
 
-## Dataset used
-1. [fusing/fill50k](https://huggingface.co/datasets/fusing/fill50k)
-2. [merlinyx/pose-controlnet](https://huggingface.co/datasets/merlinyx/pose-controlnet)
-
 ## ControlNet Architecture
 ![picture](controlNetData/assets/controlnet-operation-principle.jpg)
 
-# Using Circle Fill50K Dataset [1]
+# 1. Using Circle Fill50K Dataset
+[fusing/fill50k](https://huggingface.co/datasets/fusing/fill50k)
 ## SDXL Results
 ### Before Finetuning
 ![picture](controlNetData/Circle-SDXL-Before-Training.png)
@@ -18,7 +15,8 @@
 ### After Finetuning via condition 2
 ![picture](controlNetData/controlNet-Circle-Output/After-fill50k-ControlNet-condition2.png)
 
-# Using Pose Dataset [2]
+# 2. Using Pose Dataset
+[merlinyx/pose-controlnet](https://huggingface.co/datasets/merlinyx/pose-controlnet)
 ## SDXL Results
 ### Before Finetuning
 ![picture](controlNetData/Pose-SDXL-Before-Training.png)
