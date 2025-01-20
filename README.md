@@ -27,9 +27,7 @@
 ### After Finetuning via condition 2
 ![picture](controlNetData/controlNet-Pose2-Output/After-pose_merlinyx-ControlNet-condition2.png)
 
-
-
 ### Disclaimer:
-1. All the code is inside the notebook.
+1. All of the code is inside the Jupyter notebook file.
 2. Parts of the code are copied from unsolved assignments of Prof. Minhyuk Sung @ KAIST, a graduate course about diffusion models.
-3. Done during KAUST internship with KAUST GPUs @ Prof. Mohamed Elhoseiny Lab, as part of the learnings to create a diffusion project.
+3. Work is done during KAUST internship with KAUST GPUs @ Prof. Mohamed Elhoseiny Lab, as part of the learnings to create a diffusion project.
